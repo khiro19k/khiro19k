@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "975128109140",
+    "project_id": "my-dealyy-c75d2",
+    "storage_bucket": "my-dealyy-c75d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975128109140:android:1d61f170b488a12b5b8dc1",
+        "android_client_info": {
+          "package_name": "com.mycompany.mydeally"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaWM1Pcs4GZYPN2_7h0flRX--c0iGCWwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
